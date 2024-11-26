@@ -1,6 +1,6 @@
 ﻿namespace TechnicoConsoleApp.Models;
 
-internal class Repair
+public class Repair
 {
     public int Id { get; set; }
     public DateTime Date { get; set; }
