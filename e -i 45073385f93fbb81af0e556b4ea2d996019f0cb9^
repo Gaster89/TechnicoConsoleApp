@@ -1,0 +1,35 @@
+[33mcommit bbeebff8c07350a266cb1103cf90458db1b33cdc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Dimitris Gasteratos <dgasteratos@plaisio.gr>
+Date:   Tue Nov 26 13:30:12 2024 +0200
+
+    Create PropertyItemService and IPropertyItemService interface
+
+[33mcommit 45073385f93fbb81af0e556b4ea2d996019f0cb9[m
+Author: Dimitris Gasteratos <dgasteratos@plaisio.gr>
+Date:   Tue Nov 26 13:19:02 2024 +0200
+
+    Create PropertyOwnerService
+
+[33mcommit 3958ea5eac9c3525e75e3c81880ff6aae9f00a00[m
+Author: Dimitris Gasteratos <dgasteratos@plaisio.gr>
+Date:   Tue Nov 26 12:57:30 2024 +0200
+
+    Create Database Context
+
+[33mcommit 70fcc01ab758038610dce7e9582524dde541c08f[m
+Author: Dimitris Gasteratos <dgasteratos@plaisio.gr>
+Date:   Tue Nov 26 12:17:32 2024 +0200
+
+    Change access modifier
+
+[33mcommit c3b6f7fc703ead548e3e444e8503cc5380457e5d[m
+Author: dgasteratos <dgasteratos@LAP02WEB09>
+Date:   Tue Nov 26 11:40:52 2024 +0200
+
+    Add project files.
+
+[33mcommit 61b276e62b0c5b47d5b0eaa9c9ba6bef55898cce[m
+Author: dgasteratos <dgasteratos@LAP02WEB09>
+Date:   Tue Nov 26 11:40:50 2024 +0200
+
+    Add .gitattributes and .gitignore.
